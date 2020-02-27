@@ -1,4 +1,5 @@
 <header>
+    //Cabecera de inicio de los usuarios
     <span id="cab_usuario"></span>
     <a href="#" onclick="tablaMensajesRecibidos();">Bandeja de Entrada</a>
     <a href="#" onclick="formularioMensaje();">Enviar mensaje</a>

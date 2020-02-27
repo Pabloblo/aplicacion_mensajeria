@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="78faf70f-7133-40eb-96be-c1d3d0ec1d82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabecera_usuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/cabecera_usuario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprobar_sesion.php" beforeDir="false" afterPath="$PROJECT_DIR$/comprobar_sesion.php" afterDir="false" />
     </list>
     <list id="a21e0a68-d5ad-4b84-a8bb-5e859b0b4e81" name="Merge remote-tracking branch 'origin/master'" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;cabecera_principal.php&#10;&#10;(cherry picked from commit b20a4a04bbc20dd1416cddbc4d7d833281ef399c)">
       <changelist_data name="Pabloblo" email="pablosking98@gmail.com" date="1582823261000" />
-      <change beforePath="$PROJECT_DIR$/bd.php" beforeDir="false" afterPath="$PROJECT_DIR$/bd.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
       <workItem from="1582572915278" duration="416000" />
       <workItem from="1582821272807" duration="126000" />
       <workItem from="1582821438778" duration="666000" />
+      <workItem from="1582826131111" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="Cambio en cabecer_principal.php">
       <created>1582822631055</created>
@@ -106,6 +106,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582824036611" />
+    <state x="376" y="229" key="Github.CreatePullRequestDialog" timestamp="1582826209957">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="376" y="229" key="Github.CreatePullRequestDialog/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582826209957" />
     <state x="119" y="51" key="MergeDialog" timestamp="1582823594608">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

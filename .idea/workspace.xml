@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78faf70f-7133-40eb-96be-c1d3d0ec1d82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cabecera_principal.php" beforeDir="false" afterPath="$PROJECT_DIR$/cabecera_principal.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Git.Update.Project.Info.Tabs.Properties">
+    <option name="COLUMN_WIDTH">
+      <map>
+        <entry key="2" value="62" />
+        <entry key="3" value="104" />
+      </map>
+    </option>
   </component>
   <component name="ProjectId" id="1YGdYfamgB1rYABuhPvLBzafs4d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,6 +57,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comentario en db.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comentario en db.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="541" y="78" key="SettingsEditor" timestamp="1582821451841">

@@ -1,4 +1,4 @@
-//Esta es la cabecera que se muestra al principio.
+//Esta es la cabecera inicial.
 <header>
     <span id="cab_principal">
     <a onclick="displayLogin();" href="#">Login</a>

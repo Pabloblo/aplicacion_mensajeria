@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78faf70f-7133-40eb-96be-c1d3d0ec1d82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabecera_principal.php" beforeDir="false" afterPath="$PROJECT_DIR$/cabecera_principal.php" afterDir="false" />
-    </list>
+    <list default="true" id="78faf70f-7133-40eb-96be-c1d3d0ec1d82" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +28,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pablo\PhpstormProjects\aplicacion_mensajeria" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,23 +45,39 @@
       <updated>1582572913421</updated>
       <workItem from="1582572915278" duration="416000" />
       <workItem from="1582821272807" duration="126000" />
-      <workItem from="1582821438778" duration="666000" />
+      <workItem from="1582821438778" duration="936000" />
     </task>
+    <task id="LOCAL-00001" summary="Añadi comentario en cabecera_principal.php">
+      <created>1582822339634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582822339634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Añadi comentario en cabecera_principal.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadi comentario en cabecera_principal.php" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="583" y="28" key="CommitChangelistDialog2" timestamp="1582822338970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582822338970" />
     <state x="541" y="78" key="SettingsEditor" timestamp="1582821451841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="221" y="12" key="SettingsEditor/0.0.1440.762@0.0.1440.762" timestamp="1582573335177" />
     <state x="541" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582821451841" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1582822183642">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1582822371483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582822183642" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582822371483" />
     <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582821440529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

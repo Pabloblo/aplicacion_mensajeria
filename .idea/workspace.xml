@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78faf70f-7133-40eb-96be-c1d3d0ec1d82" name="Default Changelist" comment="" />
+    <list default="true" id="78faf70f-7133-40eb-96be-c1d3d0ec1d82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabecera_principal.php" beforeDir="false" afterPath="$PROJECT_DIR$/cabecera_principal.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YGdYfamgB1rYABuhPvLBzafs4d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,6 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582572913421</updated>
       <workItem from="1582572915278" duration="416000" />
+      <workItem from="1582821272807" duration="126000" />
+      <workItem from="1582821438778" duration="666000" />
     </task>
     <servers />
   </component>
@@ -42,9 +51,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="12" key="SettingsEditor" timestamp="1582573335177">
-      <screen x="0" y="0" width="1440" height="762" />
+    <state x="541" y="78" key="SettingsEditor" timestamp="1582821451841">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="221" y="12" key="SettingsEditor/0.0.1440.762@0.0.1440.762" timestamp="1582573335177" />
+    <state x="541" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582821451841" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1582822183642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582822183642" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582821440529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582821440529" />
   </component>
 </project>

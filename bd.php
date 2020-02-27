@@ -1,5 +1,5 @@
 <?php
-
+//Aqui esta toda la configuracion de la base de datos
 function leer_config($nombre, $esquema){
 	$config = new DOMDocument();
 	$config->load($nombre);

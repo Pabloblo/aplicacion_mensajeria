@@ -102,14 +102,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Notifications/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582822688109" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1582824036611">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582826299107">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582824036611" />
-    <state x="376" y="229" key="Github.CreatePullRequestDialog" timestamp="1582826209957">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582826299107" />
+    <state x="376" y="229" key="Github.CreatePullRequestDialog" timestamp="1582826266958">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="376" y="229" key="Github.CreatePullRequestDialog/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582826209957" />
+    <state x="376" y="229" key="Github.CreatePullRequestDialog/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582826266958" />
     <state x="119" y="51" key="MergeDialog" timestamp="1582823594608">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -123,18 +123,18 @@
     </state>
     <state x="221" y="12" key="SettingsEditor/0.0.1440.762@0.0.1440.762" timestamp="1582573335177" />
     <state x="541" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582821451841" />
-    <state x="219" y="143" key="Vcs.Push.Dialog.v2" timestamp="1582824051680">
+    <state x="219" y="143" key="Vcs.Push.Dialog.v2" timestamp="1582826324390">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="219" y="143" key="Vcs.Push.Dialog.v2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582824051680" />
+    <state x="219" y="143" key="Vcs.Push.Dialog.v2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582826324390" />
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582822183642" />
     <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582821440529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582821440529" />
-    <state x="449" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582824107480">
+    <state x="449" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582826305315">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="449" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582824107480" />
+    <state x="449" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/-381.-1440.2048.1152@0.0.1280.720" timestamp="1582826305315" />
   </component>
 </project>
